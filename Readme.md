@@ -1,5 +1,5 @@
-# 植物大战僵尸经典版官网
-## 植物大战僵尸经典版介绍和下载
+# 植物大战僵尸ghtr版官网
+## 植物大战僵尸ghtr版介绍和下载
 ### 1. 游戏概述
 #### 1.1 游戏背景
 《植物大战僵尸》（Plants vs. Zombies）是一款由宝开游戏公司（PopCap Games）开发的益智策略类塔防游戏。游戏最早于2009年5月5日在Microsoft Windows平台上发布，随后扩展至多个平台，包括macOS、Xbox 360、PlayStation 3、Nintendo DS、iOS、Android等。游戏的设计灵感来源于传统的塔防游戏，并加入了独特的植物与僵尸的元素，创造出了一种新颖的游戏体验。
@@ -205,6 +205,6 @@
 值得注意的是，除了官方版本，还有第三方魔改作品如《植物大战僵尸杂交版》等，这些作品通过社区创作者的创新和想象，为玩家带来了全新的游戏体验。
 
 
-[植物大战僵尸经典版百度网盘下载地址](https://pan.baidu.com/s/1zXqZYrnQ3ewrGSw8DdyLfg?pwd=c75u#list/path=%2F)
+[植物大战僵尸ghtr版百度网盘下载地址](https://pan.baidu.com/share/init?surl=Pc7lvI3mQ-lvzXwLOZ3VJw&pwd=f2ui)
 
-更多的介绍和下载请前往[植物大战僵尸百科](https://pvzbaike.com)的[植物大战僵尸经典版](https://pvzbaike.com/classic_pvz)专题
+更多的介绍和下载请前往[植物大战僵尸百科](https://pvzbaike.com)的[植物大战僵尸ghtr版](https://pvzbaike.com/pvz_ghtr_version)专题
