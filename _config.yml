@@ -1,13 +1,13 @@
 theme: jekyll-theme-minimal
-title: 植物大战僵尸经典版
-description: 植物大战僵尸经典版官网提供最齐全的《植物大战僵尸经典版》攻略和版本信息。包括资源下载等产品服务,提供原创、优质、完整、专业的《植物大战僵尸经典版》资讯
+title: 植物大战僵尸ghtr版
+description: 植物大战僵尸ghtr版官网提供最齐全的《植物大战僵尸ghtr版》攻略和版本信息。包括资源下载等产品服务,提供原创、优质、完整、专业的《植物大战僵尸ghtr版》资讯
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 markdonw: kramdown
 author:
-  name: pvz-classic-edition
-  email: admin@pvz-classic-edition.com
+  name: pvz-ghtr-edition
+  email: admin@pvz-ghtr-edition.com
 github:
   is_user_page: false
   is_project_page: false
